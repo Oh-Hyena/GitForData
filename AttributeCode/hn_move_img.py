@@ -1,6 +1,8 @@
 import os
 import shutil
 
+# Git Update Test
+
 targetDir = r'C:\Users\user\Desktop\test\move\origin_img'
 imgListFilePath = r'C:\Users\user\Desktop\test\move\img_list.txt'
 resultMoveDir = r'C:\Users\user\Desktop\test\move\move_img'
